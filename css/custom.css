@@ -6,3 +6,7 @@
 .color-two-sharerp {
     color: red;
 }
+
+* {
+    border: 1px solid red;
+}
